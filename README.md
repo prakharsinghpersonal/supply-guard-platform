@@ -1,1 +1,1 @@
-# supply-guard-platform\n\n**SupplyGuard: Distributed Data Platform - Distributed data ingestion platform tracking real-time global supply chain events.**\n\n## Tech Stack\n- Python\n- Kafka\n- Snowflake\n- MongoDB\n- Docker\n
+# supply-guard-platform
